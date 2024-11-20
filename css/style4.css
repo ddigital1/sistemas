@@ -83,7 +83,7 @@ h6 {
 	font-weight: 100;
 	letter-spacing: 0.4px;
 	font-family: "Open Sans", Sans-serif;
-	color: #000;
+	color: #CCC;
 }
 
 p {
@@ -100,7 +100,7 @@ color: #B1B1B1;
 }
 
 a:hover, a:focus, a:active, a.active {
-	color: #09F;
+	color: #000;
 }
 a, a:hover, a:focus, a:active, a.active {
 	outline: 0;
@@ -120,7 +120,7 @@ a, a:hover, a:focus, a:active, a.active {
 
 section {
 	padding: 20px 0;
-	background-color: #FFF;
+	background-color: #000;
 	
 }
 
@@ -181,14 +181,14 @@ section ul li:before {
 	border-color: rgba(0,0,0,.05)
 }
 .navbar-default .navbar-toggle {
-	background-color: #fed136;
-	border-color: #fed136
+	background-color: #000;
+	border-color: #FFF
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #000
+	background-color: #09F
 }
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
-	background-color: #fed136
+	background-color: #FFF
 }
 .navbar-default .nav li a {
 	font-family: "Roboto", sans-serif;
@@ -198,7 +198,7 @@ section ul li:before {
 	color:#FFF;
 }
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
-	color: #fed136;
+	color: #09F;
 	outline: 0
 }
 
@@ -244,7 +244,7 @@ section ul li:before {
 
 
 header {
-	background-image: url(../images/bg2.webp);
+	background-image: url(../images/bg3.webp);
 	background-color:#000;
 	background-repeat: none;
 	background-attachment: scroll;
@@ -432,7 +432,7 @@ header2 .intro-text .intro-heading {
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 22px;
-	color: #000;
+	color: #FFF;
 }
 
 .ot-circle {
@@ -846,7 +846,7 @@ font-size: 11px;
 	background-image: none;
 	border: 1px solid transparent;
 	border-radius: 4px;
-	background-color: #0099ff;
+	background-color: #000;
 	border-radius: 5;
 }
 
